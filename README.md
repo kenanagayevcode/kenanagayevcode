@@ -1,67 +1,91 @@
-<!-- Professional GitHub Profile README for Kənan Ağayev -->
+<!-- 💻 Professional Developer Profile README by Kenan Ağayev -->
 
-<h1 align="center">👋 Salam, mən Kənan Ağayevəm</h1>
-<h3 align="center">🌐 Web & 📱 Mobile Developer | UI/UX Design Enthusiast</h3>
+<!-- Header Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C6FF&width=480&lines=Hello+World!+I'm+Kenan+Aghayev;Web+%26+Mobile+Developer;Creative+UI%2FUX+Designer;Code.+Design.+Innovate." alt="Typing SVG" />
+</p>
+
+<h1 align="center">👋 Hey there, I'm Kenan Ağayev</h1>
+<h3 align="center">🚀 Web & Mobile Developer | UI/UX Enthusiast | Passionate Coder</h3>
+
+---
 
 <p align="center">
   <a href="https://github.com/kenanagayevcode">
-    <img src="https://komarev.com/ghpvc/?username=kenanagayevcode&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=kenanagayevcode&label=Profile%20Views&color=00C6FF&style=flat" alt="profile views" />
   </a>
-  <a href="https://linkedin.com/in/kenan-agayev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  <a href="mailto:kenanagayevcode@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kenanagayevcode%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:kenan.agayev@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  <a href="https://facebook.com/Kenan.officiallpages">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/Kenan.officiall_pages">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/Kenan.officiall_pages">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 💡 Haqqımda
-🔹 Mən **veb və mobil tətbiq inkişafı** sahəsində ixtisaslaşmış proqramçıyam.  
-🔹 **HTML, CSS, JavaScript, Bootstrap** ilə müasir və adaptiv interfeyslər yaradıram.  
-🔹 Mobil tərəfdə isə **Kotlin** və **Flutter** ilə işləməyi sevirəm.  
-🔹 Hədəfim — **funksional, estetik və istifadəsi rahat** məhsullar hazırlamaqdır.  
+### 💫 About Me
+
+I'm a **Web & Mobile Developer** focused on building clean, responsive, and user-centered applications.  
+I love writing elegant code, designing modern interfaces, and creating digital experiences that make life easier.  
+
+🔹 Skilled in creating scalable frontend & backend systems  
+🔹 Combining **design thinking** and **clean coding** principles  
+🔹 Passionate about **modern UI**, **UX flow**, and **database logic**
 
 ---
 
-### 🛠️ Texnologiyalar & Alətlər
+### 🧠 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,figma,git,github,kotlin,flutter,nodejs,firebase,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,kotlin,java,mysql,sqlite,figma,git,github,nodejs,vscode,androidstudio" />
 </p>
 
 ---
 
-### 🚀 Seçilmiş Layihələr
-| Layihə | Təsviri | Texnologiyalar |
-|--------|----------|----------------|
-| 🎨 **Portfolio Website** | Şəxsi portfoliom — UI/UX və responsive dizayn yönümlü | HTML, CSS, Bootstrap |
-| 🧭 **CRM Paneli** | İdarəetmə paneli, məlumatların vizuallaşdırılması | Bootstrap, JS |
-| 📱 **Mobile App UI** | Kotlin ilə dizayn edilmiş demo tətbiq | Kotlin, Android Studio |
+### 📂 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| 🎨 **Portfolio Website** | My personal responsive portfolio site with interactive UI | HTML, CSS, JS, Bootstrap |
+| ⚙️ **CRM Management System** | Internal data and task management dashboard | HTML, JS, Bootstrap, SQL |
+| 📱 **Mobile App Interface** | Android app UI built with Kotlin & Material Design | Kotlin, XML, SQL |
+| 🧭 **EduConnect** | Concept app for educational institutions | Kotlin, Firebase, REST API |
 
 ---
 
-### 📊 GitHub Statistikaları
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenanagayevcode&show_icons=true&theme=tokyonight" alt="Kenan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kenanagayevcode&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenanagayevcode&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenanagayevcode&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenanagayevcode&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenanagayevcode&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🌐 Əlaqə
-📧 **E-poçt:** [kenan.agayev@example.com](mailto:kenan.agayev@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/kenan-agayev](https://linkedin.com/in/kenan-agayev)  
-🌍 **Portfolio:** [kenanagayev.me](https://kenanagayev.me)  
+### 🌍 Connect With Me
+📧 **Email:** [kenanagayevcode@gmail.com](mailto:kenanagayevcode@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/Kenan.officiall_pages](https://linkedin.com/in/Kenan.officiall_pages)  
+📸 **Instagram:** [instagram.com/Kenan.officiall_pages](https://instagram.com/Kenan.officiall_pages)  
+📘 **Facebook:** [facebook.com/Kenan.officiallpages](https://facebook.com/Kenan.officiallpages)  
+▶️ **YouTube:** [youtube.com/@Kenan.officiall_pages](https://youtube.com/@Korbucaq)  
 🐙 **GitHub:** [github.com/kenanagayevcode](https://github.com/kenanagayevcode)
 
 ---
 
 <p align="center">
-  💬 "Kod sənətin, interfeys onun rəngləridir."
+  <img src="https://github-profile-trophy.vercel.app/?username=kenanagayevcode&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+<p align="center">
+  ✨ *"Code is not just logic — it's creativity in motion."* ✨  
 </p>
