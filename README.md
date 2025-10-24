@@ -79,9 +79,9 @@ I love writing elegant code, designing modern interfaces, and creating digital e
 🐙 **GitHub:** [github.com/kenanagayevcode](https://github.com/kenanagayevcode)
 
 ---
-
+<!-- Code Writing Animation -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kenanagayevcode&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFAA&width=600&lines=const+developer+%3D+%22Kenan+Aghayev%22%3B;console.log(%22Building+the+future...%22);;let+passion+%3D+%22Code+%26+Design%22;" alt="Typing Code Animation" />
 </p>
 
 ---
